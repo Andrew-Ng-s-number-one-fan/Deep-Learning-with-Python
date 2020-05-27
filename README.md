@@ -10,7 +10,7 @@
 
 - [C3-1: Binary classification problem.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%203/C3-1-Binary-Classification.ipynb)
 - [C3-2: Multiclass classification problem.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%203/C3-2-Multiclass-Classification.ipynb)
-- [C3-3: Houseprice prediction.ipynb]()
+- [C3-3: Houseprice prediction.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%203/C3-3-Houseprice-Prediction-Regression.ipynb)
 
 ### 第4章 - 机器学习基础
 
