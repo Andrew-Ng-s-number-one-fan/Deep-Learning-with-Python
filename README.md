@@ -4,7 +4,7 @@
 
 ### 第2章 - 神经网络的数学基础
 
-- [C1-1：Hello world.ipynb]https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%202/C2-1.ipynb
+- [C1-1：Hello world.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%202/C2-1.ipynb)
 
 ### 第3章 - 神经网络入门
 
