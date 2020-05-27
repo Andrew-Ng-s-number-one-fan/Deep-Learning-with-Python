@@ -14,7 +14,7 @@
 
 ### 第4章 - 机器学习基础
 
-- [C4-1: Validations Methods](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%204/C4-1-Validation-Methods.ipynb)
+- [C4-1: Validations methods](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%204/C4-1-Validation-Methods.ipynb)
 
 ### 第5章 - 将深度学习应用于计算机视觉
 
