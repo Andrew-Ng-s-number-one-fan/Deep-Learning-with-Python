@@ -8,6 +8,10 @@
 
 ### 第3章 - 神经网络入门
 
+- [C3-1: Binary classification problem.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%203/C3-1-Binary-Classification.ipynb)
+- [C3-2: Multiclass classification problem.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%203/C3-2-Multiclass-Classification.ipynb)
+- [C3-3: Houseprice prediction.ipynb]()
+
 ### 第4章 - 机器学习基础
 
 ### 第5章 - 将深度学习应用于计算机视觉
