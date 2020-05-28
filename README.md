@@ -16,6 +16,7 @@
 
 - [C4-1: Validations methods.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%204/C4-1-Validation-Methods.ipynb)
 - [C4-2: L1 and L2 regularizations.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%204/C4-2-L1-and-L2-Regularizations.ipynb)
+- [C4-3: Dropout.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%204/C4-3-Dropout.ipynb)
 
 ### 第5章 - 将深度学习应用于计算机视觉
 
