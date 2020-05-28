@@ -21,6 +21,7 @@
 ### 第5章 - 将深度学习应用于计算机视觉
 
 - [C5-1: Intro to CNN.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%205/C5-1-Intro-to-CNN.ipynb)
+- [C5-2: Cats vs Dogs.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%205/C5-2-Dogs-vs-Cats.ipynb)
 
 ### 第6章 - 将深度学习应用于文本和序列
 
