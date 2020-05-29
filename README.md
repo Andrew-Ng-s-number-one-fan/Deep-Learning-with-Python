@@ -21,10 +21,10 @@
 ### 第5章 - 将深度学习应用于计算机视觉
 
 - [C5-1: Intro to CNN.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%205/C5-1-Intro-to-CNN.ipynb)
-- [C5-2: Cats vs Dogs.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%205/C5-2-Dogs-vs-Cats.ipynb)
+- [C5-2: Cats vs dogs.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%205/C5-2-Dogs-vs-Cats.ipynb)
 - [C5-3: Data augmentation.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%205/C5-3-Data-Augmentation.ipynb)
 - [C5-4: Using pre-trained models.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%205/C5-4-Using-Pre-Trained-Models.ipynb)
-- [C5-5：Fine-tuning.ipynb]()
+- [C5-5: Fine-tuning.ipynb]()
 
 ### 第6章 - 将深度学习应用于文本和序列
 
