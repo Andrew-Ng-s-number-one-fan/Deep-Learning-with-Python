@@ -24,7 +24,7 @@
 - [C5-2: Cats vs dogs.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%205/C5-2-Dogs-vs-Cats.ipynb)
 - [C5-3: Data augmentation.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%205/C5-3-Data-Augmentation.ipynb)
 - [C5-4: Using pre-trained models.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%205/C5-4-Using-Pre-Trained-Models.ipynb)
-- [C5-5: Fine-tuning.ipynb]()
+- [C5-5: Fine-tuning.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%205/C5-5-Fine-Tuning.ipynb)
 
 ### 第6章 - 将深度学习应用于文本和序列
 
