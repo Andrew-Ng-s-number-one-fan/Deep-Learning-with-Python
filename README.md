@@ -1,5 +1,5 @@
 # Deep Learning with Python
-<i> A book by [François Chollet](https://twitter.com/fchollet)</i>
+<i> A book by François Chollet</i>
 
 ### Chapter 1 - What is Deep Learning
 
