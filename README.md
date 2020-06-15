@@ -3,7 +3,7 @@
 
 ### Chapter 1 - What is Deep Learning
 
-### Chapter 2 - Before We Begin: the Mathematical Building Blocks of Neural Networks
+### Chapter 2 - Before We Begin: The Mathematical Building Blocks of Neural Networks
 
 - [C2-1: Hello world.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%202/C2-1.ipynb)
 
