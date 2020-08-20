@@ -1,6 +1,13 @@
 # Deep Learning with Python
 <i> A book by François Chollet</i>
 
+<br>
+<p align="center">
+  <img src="https://github.com/Andrew-Ng-s-number-one-fan/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/Notebooks/hands-on-ml.jpg" height="656px" width="500px">  
+</p>
+<br>
+
+# Notebooks
 ### Chapter 1 - What is Deep Learning
 
 ### Chapter 2 - Before We Begin: The Mathematical Building Blocks of Neural Networks
