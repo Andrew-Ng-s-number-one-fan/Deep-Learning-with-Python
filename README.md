@@ -12,7 +12,7 @@
 
 ### Chapter 2 - Before We Begin: The Mathematical Building Blocks of Neural Networks
 
-- [Hello world.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%202/C2-1.ipynb)
+- [Hello World.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%202/C2-1.ipynb)
 
 ### Chapter 3 - Getting Started with Neural Networks
 
@@ -23,7 +23,7 @@
 ### Chapter 4 - Fundamentals of Machine Learning
 
 - [Validations Methods.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%204/C4-1-Validation-Methods.ipynb)
-- [$L1$ and $L2$ Regularizations.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%204/C4-2-L1-and-L2-Regularizations.ipynb)
+- [L1 and L2 Regularizations.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%204/C4-2-L1-and-L2-Regularizations.ipynb)
 - [Dropout.ipynb](https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%204/C4-3-Dropout.ipynb)
 
 ### Chapter 5 - Deep Learning for Computer Vision
