@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%202/dl-with-python.png" height="627px" width="500px">  
+  <img src="https://github.com/Andrew-Ng-s-number-one-fan/Deep-Learning-with-Python/blob/master/Chapter%202/dl-with-python.png" height="376px" width="300px">  
 </p>
 <br>
 
